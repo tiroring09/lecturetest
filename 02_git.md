@@ -1,0 +1,3 @@
+Taking notes below...
+# Git
+* Git is currently the most preferred (distributed-) Version Control System.
